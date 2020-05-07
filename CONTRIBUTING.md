@@ -1,0 +1,1 @@
+This contributing manual
